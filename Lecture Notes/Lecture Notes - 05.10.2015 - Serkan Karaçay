@@ -1,0 +1,19 @@
+  Draft requirements:
+•	There will be web app and mobile app.
+•	Users can  sign up to  the app.
+•	User can start a conversation about a topic which is related to user.
+•	Semantic tagging will be used
+•	There will be Search function
+•	User can share any content which can be picture, text, file,links 
+•	User can comment the posts
+•	Meetings can be created by users
+•	Meetings will have attendees and those attendees will have specific roles about meeting
+•	Tagging will be done manually
+•	W3c groups can be examined for this application
+•	Users can create a group
+•	Users can attend to a group
+•	There will be system roles  for  users
+•	Search function can recommend “related topics “
+•	There will be functional differences between web app and mobile app such as reports can be seen at only web
+•	One to one messaging  will be provided
+•	Video conference will be provided. But, the video will not be recorded by the system. 
